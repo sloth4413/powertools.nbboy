@@ -1,0 +1,8 @@
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\EFPowerTools.dll
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\EFPowerTools.pkgdef
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\extension.vsixmanifest
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\db.png
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\License.rtf
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\menu.png
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\EFPowerTools.pdb
+C:\Users\nbboy\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Microsoft\Entity Framework Power Tools Beta 4\0.9.0.0\\DatabaseSchemaReader.dll
